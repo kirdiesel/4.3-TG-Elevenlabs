@@ -22,3 +22,13 @@
 2025-05-15 11:39:57,050 [INFO] User 378157839 selected voice Aria
 2025-05-15 11:40:07,711 [INFO] Generating audio for user 378157839 with voice 9BWtsMINqrJLrRacOk9x
 2025-05-15 11:40:08,869 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/9BWtsMINqrJLrRacOk9x?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-05-15 11:43:37,061 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-15 11:43:37,142 [INFO] Fetched all voices
+2025-05-15 11:43:42,906 [INFO] User 378157839 started bot
+2025-05-15 11:43:47,151 [INFO] User 378157839 selected voice Aria
+2025-05-15 11:43:55,177 [INFO] Generating audio for user 378157839 with voice 9BWtsMINqrJLrRacOk9x
+2025-05-15 11:43:57,353 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/9BWtsMINqrJLrRacOk9x?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 200 OK"
+2025-05-15 11:43:57,359 [INFO] Audio saved to audio.mp3
+2025-05-15 11:45:35,350 [INFO] Generating audio for user 378157839 with voice 9BWtsMINqrJLrRacOk9x
+2025-05-15 11:45:37,520 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/9BWtsMINqrJLrRacOk9x?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 200 OK"
+2025-05-15 11:45:37,525 [INFO] Audio saved to audio.mp3

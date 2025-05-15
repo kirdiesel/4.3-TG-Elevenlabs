@@ -1,0 +1,13 @@
+# Exclude sensitive config
+config.py
+
+# Logs
+*.log
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv/
