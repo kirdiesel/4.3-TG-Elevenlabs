@@ -1,0 +1,24 @@
+2025-05-14 17:21:53,739 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-14 17:21:53,808 [INFO] Fetched all voices
+2025-05-14 17:25:02,634 [INFO] User 378157839 started bot
+2025-05-14 17:25:24,464 [INFO] User 378157839 selected voice Sarah
+2025-05-14 17:25:40,918 [INFO] Generating audio for user 378157839 with voice EXAVITQu4vr4xnSDxMaL
+2025-05-14 17:25:42,213 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/EXAVITQu4vr4xnSDxMaL?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-05-14 17:29:11,333 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-14 17:29:11,435 [INFO] Fetched all voices
+2025-05-14 17:29:45,359 [INFO] User 378157839 started bot
+2025-05-14 17:29:50,975 [INFO] User 378157839 selected voice Aria
+2025-05-14 17:30:10,421 [INFO] Generating audio for user 378157839 with voice 9BWtsMINqrJLrRacOk9x
+2025-05-14 17:30:11,564 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/9BWtsMINqrJLrRacOk9x?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
+2025-05-14 17:31:57,337 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-14 17:31:57,481 [INFO] Fetched all voices
+2025-05-14 17:35:58,476 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-14 17:35:58,755 [INFO] Fetched all voices
+2025-05-15 11:26:54,992 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-15 11:26:55,079 [INFO] Fetched all voices
+2025-05-15 11:39:08,098 [INFO] HTTP Request: GET https://api.elevenlabs.io/v1/voices "HTTP/1.1 200 OK"
+2025-05-15 11:39:08,183 [INFO] Fetched all voices
+2025-05-15 11:39:52,585 [INFO] User 378157839 started bot
+2025-05-15 11:39:57,050 [INFO] User 378157839 selected voice Aria
+2025-05-15 11:40:07,711 [INFO] Generating audio for user 378157839 with voice 9BWtsMINqrJLrRacOk9x
+2025-05-15 11:40:08,869 [INFO] HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/9BWtsMINqrJLrRacOk9x?optimize_streaming_latency=0&output_format=mp3_44100_128 "HTTP/1.1 401 Unauthorized"
